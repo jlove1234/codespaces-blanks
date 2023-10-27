@@ -6,7 +6,7 @@
       "R.rterm.windows": "C:\\rtools40\\usr\\bin\\bash.exe",
       "R.rterm.linux": "/usr/bin/bash"
     },
-    "workspaceMount": "source=/workspaces/codespaces-blank,target=/workspace,type=bind,consistency=delegated"
+    "workspaceMount": "source=/workspaces/codespaces-blanks,target=/workspace,type=bind,consistency=delegated"
 }
   
   
